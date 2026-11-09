@@ -33,3 +33,6 @@ Execute `npm run build` para gerar `dist/`. Hospede em Vercel, Netlify ou outro 
 - O cadastro permite criar e editar registros; não há exclusão na interface. Não inclui ainda uploads de documentos, controle de permissões por obra, relatórios PDF, aprovação de compras, fluxo de caixa real, conciliação de notas, custo proporcional de alocação, integração de IA ou auditoria de alterações.
 - O carregamento inicial está limitado a 1.000 registros por tabela; para operação em escala, implementar paginação e consultas agregadas no banco.
 - A instalação e publicação ainda precisam ser realizadas no seu computador/serviço de hospedagem. Nenhuma conexão de produção foi testada por este pacote.
+
+
+Configuração inicial de implantação na Vercel.
